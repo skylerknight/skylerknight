@@ -1,16 +1,17 @@
 [![Github Profile Header for Skyler Knight](https://github.com/skylerknight/skylerknight/raw/main/Skyler_Knight_Github_Profile_Header.png)](https://skylerknight.com)
 
 ```javascript
-console.log(" Hello World 👋 ");
+console.log(" Hi there! 👋 ");
 ```
 
 
 Welcome to the Github profile of Skyler Knight.
 
-I'm a developer / designer in Frisco, Texas. I specialize in:
+I'm a Full Stack Engineer living in Mountain View, CA.
+I specialize in:
 
-- Web & mobile development
-- UI/UX design
+- Frontend Engineering
+- UI design systems & component libraries
 
 If you want to learn more about me, what I've done, and what I do, please visit [skyerknight.com](https://www.skylerknight.com).
 
